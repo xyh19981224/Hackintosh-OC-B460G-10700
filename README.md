@@ -1,6 +1,6 @@
 # Hackintosh-OC-B460G-10700
 黑苹果引导
-oc版本 - 0.8.5
+oc版本 - 0.8.6
 测试系统 macOS 12.6
 
 华硕 ROG B460-G主板
