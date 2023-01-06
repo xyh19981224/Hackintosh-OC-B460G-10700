@@ -149,7 +149,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.2 | Patch engine</string>
+                    <string>V1.6.3 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -203,7 +203,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.7 | Audio patches</string>
+                    <string>V1.7.8 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -329,7 +329,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.2</string>
+                    <string>V1.6.3</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -676,13 +676,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C020326094NLNV9FB</string>
+                <string>C02044902QXLNV91F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>HXgCjFBz</data>
+                <data>n/9+93x8</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -690,9 +690,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02D6TYZJV3Q</string>
+                <string>C02DMXZFJV3Q</string>
                 <key>SystemUUID</key>
-                <string>FDAB62B5-62F5-4615-8063-8141CB546CC0</string>
+                <string>9B6B7BC3-DCED-460F-85D2-7B5D3B1A00C6</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
