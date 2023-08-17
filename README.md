@@ -1,7 +1,7 @@
 # Hackintosh-OC-B460G-10700
 黑苹果引导
-oc版本 - 0.9.3
-测试系统 macOS 13.3
+oc版本 - 0.9.4
+测试系统 macOS 13.5
 
 主板：华硕 ROG B460-G
 CPU：英特尔 I7-10700
