@@ -201,7 +201,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.4 | Audio patches</string>
+                    <string>V1.8.5 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -678,23 +678,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02005130GULNV9CB</string>
+                <string>C02239102GUPHC11H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>qpUEM/z1</data>
+                <data>TM8u1qfS</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac19,1</string>
+                <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02C6VYPJV3Q</string>
+                <string>C02JGVZBPN5T</string>
                 <key>SystemUUID</key>
-                <string>0E2694B5-861F-4A0F-9F74-DA329F2978C9</string>
+                <string>C2BB7649-F535-4438-ACF3-026CC0690120</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -945,6 +945,8 @@
                 <key>ResizeGpuBars</key>
                 <integer>-1</integer>
                 <key>ResizeUsePciRbIo</key>
+                <false/>
+                <key>ShimRetainProtocol</key>
                 <false/>
                 <key>TscSyncTimeout</key>
                 <integer>0</integer>
