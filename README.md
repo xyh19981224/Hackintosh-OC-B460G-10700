@@ -1,8 +1,8 @@
 # Hackintosh-OC-B460G-10700
 黑苹果引导 <br>
-    oc版本 - 1.0.0 <br>
+    oc版本 - 1.0.1 <br>
 测试系统 <br>
-    macOS 14.5 <br>
+    macOS 14.6.1 <br>
 辅助工具 <br>
     OpenCore Legacy Patcher 1.5.0<br> 
     升级完成Mac OS 14.5后，运行【Post-Install Root Patch】<br>
